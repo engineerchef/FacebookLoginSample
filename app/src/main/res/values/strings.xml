@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Facebook Giriş Uygulaması</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Parola (opsiyonel)</string>
+    <string name="action_sign_in">Giriş yap veya Kaydol</string>
+    <string name="action_sign_in_short">Giriş Yap</string>
+    <string name="error_invalid_email">Geçersiz email adresi</string>
+    <string name="error_invalid_password">Parola çok kısa</string>
+    <string name="error_incorrect_password">Parola doğrulanamadı</string>
+    <string name="error_field_required">Bu alanı doldurmak zorunlu</string>
+    <string name="permission_rationale">"Email hesabının tamamlaması için iletişim izinleri gerekmektedir."</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="loginImg_content">Profil Fotosu</string>
+    <string name="btnLogin_text">Facebook İle Giriş Yap</string>
+    <string name="title_activity_logout">Çıkış</string>
+    <string name="facebook_app_id">170689913335774</string>
+    <string name="logout_tv">Çıkış</string>
+
+    <integer name="com_vk_sdk_AppId">5659690</integer>
+</resources>
