@@ -15,8 +15,8 @@
     <string name="loginImg_content">Profil Fotosu</string>
     <string name="btnLogin_text">Facebook İle Giriş Yap</string>
     <string name="title_activity_logout">Çıkış</string>
-    <string name="facebook_app_id">170689913335774</string>
+    <string name="facebook_app_id">FACEBOOK_APP_ID Here</string>
     <string name="logout_tv">Çıkış</string>
 
-    <integer name="com_vk_sdk_AppId">5659690</integer>
+    <integer name="com_vk_sdk_AppId">VK_APP_ID Here</integer>
 </resources>
